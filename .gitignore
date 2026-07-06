@@ -1,0 +1,11 @@
+# Bloquear dependências do React dentro da subpasta
+**/node_modules/
+**/dist/
+**/.env.local
+
+# Bloquear compilações do .NET dentro da subpasta
+**/bin/
+**/obj/
+**/.vs/
+**/*.user
+**/appsettings.Development.json
